@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "616733519082",
+    "firebase_url": "https://printhubn.firebaseio.com",
+    "project_id": "printhubn",
+    "storage_bucket": "printhubn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616733519082:android:9e83f45e32782533743b93",
+        "android_client_info": {
+          "package_name": "com.example.printhubn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616733519082-ph66b46mt471igib7ttikq11gjio12s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.printhubn",
+            "certificate_hash": "9c1ea18f5b49f30fee9e4a488358a5c5899c8b4f"
+          }
+        },
+        {
+          "client_id": "616733519082-auqaudarmou2rq40hd9bvkr1btkf47hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDynw2OaRuCPSf1_VQNAGAo6I2fX2AUxJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616733519082-auqaudarmou2rq40hd9bvkr1btkf47hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
